@@ -1,7 +1,3 @@
-<img src="https://github.com/hyeyoung-dev/hyeyoung-dev/blob/main/image.png" width="100%" height="5%">
-
-
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=hyeyoung-dev)
 
 
