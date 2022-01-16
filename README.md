@@ -1,4 +1,4 @@
-<img src="![met_canaletto_1720](https://user-images.githubusercontent.com/96934758/149668297-dae468bd-d333-487d-888c-7def02a69f37.jpg)">
+<img src="https://github.com/hyeyoung-dev/hyeyoung-dev/blob/main/met_canaletto_1720.jpg" width="100%" height="50%">
 
 
 
